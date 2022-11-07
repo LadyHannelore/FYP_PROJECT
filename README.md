@@ -27,13 +27,13 @@ Some of the models Which were mentioned in the research papers and are previousl
 
 Dataset video quantity for 10 cricket batting shots.
 Name            Training Set    Test Set
-Cover Drive                     153 35
-Defensive Shot                  157 35
-Flick                           146 35
-Hook                            146 35
-Late Cut                        147 35
-Lofted Shot                     151 35
-Pull                            144 35
-Square Cut                      160 35
-Straight Drive                  154 35
-Sweep                           159 35
+Cover Drive         153         35
+Defensive Shot      157         35
+Flick               146         35
+Hook                146         35
+Late Cut            147         35
+Lofted Shot         151         35
+Pull                144         35
+Square Cut          160         35
+Straight Drive      154         35
+Sweep               159         35
