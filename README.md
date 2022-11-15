@@ -6,7 +6,7 @@ An Interactive approach to Cricket shots classification through Deep Learning.
 -
 Supervisor:
 Ms. Farah Sadia
-Co-Supervisor:
+Co-Supervisor: None
 
 
 Team Members:
