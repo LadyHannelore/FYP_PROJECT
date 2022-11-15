@@ -1,13 +1,13 @@
 # FYP_PROJECT
 
-
+-
 Topic:
 An Interactive approach to Cricket shots classification through Deep Learning.
-
+-
 Supervisor:
 Ms. Farah Sadia
 Co-Supervisor:
--
+
 
 Team Members:
 Anas Sohail [19k-1354]
