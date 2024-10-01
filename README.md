@@ -9,11 +9,6 @@ Ms. Farah Sadia
 Co-Supervisor: Kariz Kamal
 
 
-Team Members:
--
-Anas Sohail [19k-1354]
-Umer Zaidi Syed [19k-0304]
-Osama Shibli [19k-0142]
 
 
 Videos uploaded in huge volumes onto various streaming platforms consisting of YouTube and Vimeo play a vital function within the era of data communication. Simultaneously, reading information from these videos is critical trouble. While working with video statistics, making crucial selections even as constantly monitoring what's converting in their frames is a primary concern. The same can be said for numerous sports highlights. Cricket is one of these, thriving with a massive following all over the globe. A match that includes the ICC Men’s Cricket World Cup 2019 hits a worldwide audience of no much less than 1.6 billion, making it one of the well-regarded events ever. This extensive reputation and sizeable fan base create a business factor for working on cricket data. Cricket videos require analysis to develop an unbiased, equitable, and sensor-based commentary system. 
